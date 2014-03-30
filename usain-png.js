@@ -1,4 +1,4 @@
-importScripts('deflater.js');
+importScripts('deflate.js');
 
 var crc32 = (function () {
 	var table = new Uint32Array(256);
